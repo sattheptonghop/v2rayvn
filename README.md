@@ -1,4 +1,4 @@
-# v2rayvn
+# v2rayNG Tiếng Việt
 Tiếng việt cho v2rayNG, bản gốc thuộc về 2dust/v2rayng.
 
 
