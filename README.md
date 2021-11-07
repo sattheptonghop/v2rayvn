@@ -2,7 +2,7 @@
 
 V2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
-Thống kê số lần v2rayNG Tiếng Việt được tải về từ đây
+Thống kê số lần v2rayNG Tiếng Việt được tải về
 
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/latest/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
 
