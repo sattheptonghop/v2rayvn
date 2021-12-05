@@ -40,12 +40,3 @@ Tải về phiên bản gốc Tiếng Anh (English)
 #### 2dust/v2rayNG
 [Đi đến 2dust/v2rayNG](https://github.com/2dust/v2rayng)
 
-#### Xem thêm tại wiki của chúng tôi [wiki](https://github.com/cuynu/v2rayvn/wiki)
-
-### Hướng dẫn cho người phát triển 
-
-Dự án của Android dưới thư mục V2rayNG có thể biên dịch trực tiếp trong Android Studio, hoặc Gradle wrapper. Nhưng v2ray core trong aar có thể đã quá cũ.
-Aar có thể biên dịch từ Golang Project dưới thư mục AndroidLibV2rayLite Để bắt đầu, hãy đọc hướng dẫn [Go Mobile](https://github.com/golang/go/wiki/Mobile)
-Và [Makefiles for Go Developers](https://tutorialedge.net/golang/makefiles-for-go-developers/)
-
-v2rayNG có thể hoạt động trên giả lập Android, với Android tối thiểu 5.0+
