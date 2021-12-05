@@ -1,6 +1,7 @@
 # v2rayNG Tiếng Việt / Vietnamese Language
 
 V2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
+Credit : Nguyễn Khang :3
 
 Thống kê số lần v2rayNG Tiếng Việt được tải về
 
