@@ -26,7 +26,7 @@ ____________________________________________________
 
 Tải về phiên bản gốc Tiếng Anh (English)
 
-<a href="https://play.google.com/store/apps/details?id=com.v2ray.ang">
+<a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
 </a>
 
