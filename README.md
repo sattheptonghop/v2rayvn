@@ -9,7 +9,9 @@ Phiên bản mới nhất : 1.6.26
 
 Tải về v2rayNG Tiếng Việt tại:  
 
-[Tải xuống v2rayNG Tiếng Việt](https://github.com/cuynu/v2rayvn/releases)
+<a href="https://github.com/cuynu/v2rayvn/releases/download/1.6.26/v2rayNG_1.6.26.apk">
+<img alt="Get it on Google Play" src="https://files.catbox.moe/vp3izb.png" width="300" height="100" />
+</a>
 
 
 Bạn có thể ủng hộ mình bằng cách đăng ký kênh [YouTube : Cuynu](https://youtube.com/cuynudtw) để giúp mình sớm đạt mốc 1.000 người đăng ký, mình cảm ơn các bạn lắmm🥺
