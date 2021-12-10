@@ -14,6 +14,8 @@ Tải về v2rayNG Tiếng Việt tại:
 <img alt="Get v2rayNG" src="https://files.catbox.moe/vp3izb.png" width="300" height="100" />
 </a>
 
+[Các vấn đề thường gặp trong v2rayNG](https://github.com/cuynu/v2rayvn/wiki/V%E1%BA%A5n-%C4%91%E1%BB%81-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-v2rayNG)
+
 Tải xuống phiên bản cũ hơn tại :
 
  [v2rayNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
