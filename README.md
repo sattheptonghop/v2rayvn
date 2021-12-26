@@ -8,6 +8,8 @@ Việt Hóa bởi : [Cuynu😶](https://youtube.com/cuynudtw)
 
 Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phiên bản Tiếng Việt này.
 
+Ứng dụng này được làm với mục đích phi lợi nhuận, sẽ mãi mãi miễn phí.
+
 Tải về v2rayNG Tiếng Việt tại:  
 
 <a href="https://github.com/cuynu/v2rayvn/releases/download/1.6.27/v2rayNG_1.6.27.apk">
