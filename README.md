@@ -8,6 +8,8 @@ Dịch Tiếng Việt bởi : [Cuynu😶](https://youtube.com/cuynudtw)
 
 Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phiên bản Tiếng Việt này.
 
+[Hướng dẫn sao lưu File/Cấu hình/Code từ v2rayNG bản Gốc và nhập sang v2rayNG Tiếng Việt](https://github.com/cuynu/v2rayvn/wiki/Backup)
+
 Ứng dụng này được làm với mục đích phi lợi nhuận, sẽ mãi mãi miễn phí.
 
 Tải về v2rayNG Tiếng Việt tại:  
