@@ -2,9 +2,9 @@
 
 V2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
-Phiên bản mới nhất : 1.6.28
+Phiên bản mới nhất : 1.6.29
 
-Dịch Tiếng Việt bởi : [Cuynu😶](https://youtube.com/cuynudtw)
+Dịch Tiếng Việt bởi : [Cuynu😶](https://youtube.com/cuynudtw) Uớc được đăng kýy🥺
 
 Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phiên bản Tiếng Việt này.
 
@@ -14,8 +14,8 @@ Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phi�
 
 Tải về v2rayNG Tiếng Việt tại:  
 
-<a href="https://github.com/cuynu/v2rayvn/releases/download/1.6.28/v2rayNG_1.6.28.apk">
-<img alt="Tải về v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.6.28/1640875667031.png" width="300" height="100" />
+<a href="https://github.com/cuynu/v2rayvn/releases/download/1.6.29/v2rayNG_1.6.29.apk">
+<img alt="Tải về v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.6.29/1643548862731.png" width="300" height="100" />
 </a>
 
 v2rayNG hiện chỉ có sẵn cho Android.
