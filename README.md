@@ -3,7 +3,8 @@
 V2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
 Phiên bản mới nhất : 1.6.29
-(1/2/2022)
+
+(00:09 1/2/2022)
 
 Dịch Tiếng Việt bởi : [Cuynu😶](https://m.youtube.com/cuynudtw) Uớc được đăng kýy🥺
 
