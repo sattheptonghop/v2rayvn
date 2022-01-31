@@ -4,7 +4,7 @@ V2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github
 
 Phiên bản mới nhất : 1.6.29
 
-Dịch Tiếng Việt bởi : [Cuynu😶](https://youtube.com/cuynudtw) Uớc được đăng kýy🥺
+Dịch Tiếng Việt bởi : [Cuynu😶](https://m.youtube.com/cuynudtw) Uớc được đăng kýy🥺
 
 Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phiên bản Tiếng Việt này.
 
