@@ -72,5 +72,5 @@ Tải về phiên bản gốc Tiếng Anh của v2rayNG tại Google Play
 #### 2dust/v2rayNG
 [Đi đến 2dust/v2rayNG](https://github.com/2dust/v2rayng)
 
-### [Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.6.30.zip)
+[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.6.30.zip)
 
