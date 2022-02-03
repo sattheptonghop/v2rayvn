@@ -28,7 +28,7 @@ Mình có làm thêm v2flyNG Tiếng việt ạ, cách sử dụng như v2rayNG 
 
 Tải về tại đây : 
 
-[Tải xuống v2flyNG Tiếng Việt v1.6.26](https://github.com/cuynu/v2rayvn/releases/download/1.6.26/v2flyNG_1.6.26.apk)
+[Tải xuống v2flyNG Tiếng Việt v1.6.26](https://github.com/cuynu/v2rayvn/releases/download/1.6.25/v2flyNG_1.6.26.apk)
 
 
 [Hướng dẫn cài đặt v2rayNG trên Android cho người mới bắt đầu](https://github.com/cuynu/v2rayvn/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-%E1%BB%A9ng-d%E1%BB%A5ng-cho-ng%C6%B0%E1%BB%9Di-b%E1%BA%AFt-%C4%91%E1%BA%A7u)
