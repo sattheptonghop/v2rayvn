@@ -6,7 +6,7 @@ Phiên bản mới nhất : 1.6.30
 
 (14:00 3/2/2022)
 
-Dịch Tiếng Việt bởi : [Cuynu😶](https://m.youtube.com/cuynudtw) Uớc được đăng kýy🥺
+Dịch Tiếng Việt bởi : [Cuynu😶](https://m.youtube.com/cuynudtw)
 
 Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phiên bản Tiếng Việt này.
 
