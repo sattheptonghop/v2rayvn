@@ -39,7 +39,9 @@ Tải xuống phiên bản cũ hơn tại :
 
  [v2rayNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
 
-Bạn có thể ủng hộ mình bằng cách đăng ký kênh [YouTube : Cuynu](https://m.youtube.com/cuynudtw) để giúp mình sớm đạt mốc 1.000 người đăng ký, cảm ơn ạ 😿
+Ủng hộ mình tại đây:  
+
+[Ủng hộ Cuynu](https://github.com/cuynu/v2rayvn/wiki/Donate)
 
 
  
