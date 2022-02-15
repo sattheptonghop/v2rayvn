@@ -21,6 +21,9 @@ Tải về v2rayNG Tiếng Việt tại:
 </a>
 
 v2rayNG hiện chỉ có sẵn cho Android.
+
+Bạn cần dùng phiên bản Android 5.0 trở lên để sử dụng v2rayNG.
+
 ____________________________________________________
 
 Mình có làm thêm v2flyNG Tiếng việt ạ, cách sử dụng như v2rayNG nhé :3
