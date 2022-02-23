@@ -16,8 +16,8 @@ Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phi�
 
 Tải về v2rayNG Tiếng Việt tại:  
 
-<a href="https://github.com/cuynu/v2rayvn/releases/download/1.6.30/v2rayNG_1.6.30.apk">
-<img alt="Tải về v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.6.30/1643877739100.png" width="300" height="100" />
+<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.1/v2rayNG_1.7.1.apk">
+<img alt="Tải về v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.1/1645637633760.png" width="300" height="100" />
 </a>
 
 v2rayNG hiện chỉ có sẵn cho Android.
