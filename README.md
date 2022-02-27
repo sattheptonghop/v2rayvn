@@ -14,6 +14,8 @@ Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phi�
 
 Ứng dụng này được làm với mục đích phi lợi nhuận, sẽ mãi mãi miễn phí.
 
+Tôi đã chia sẻ miễn phí cho cộng đồng, VUI LÒNG KHÔNG LẠM DỤNG HAY CHỈNH SỬA NÓ
+
 Tải về v2rayNG Tiếng Việt tại:  
 
 <a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.1/v2rayNG_1.7.1.apk">
