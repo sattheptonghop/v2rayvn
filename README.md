@@ -42,7 +42,7 @@ Tải về tại đây :
 
 Tải xuống phiên bản cũ hơn tại :
 
- [v2rayNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases
+ [v2rayNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
 
 Thống kê số lần v2rayNG Tiếng Việt được tải về
 
