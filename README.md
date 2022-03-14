@@ -6,7 +6,7 @@ Phiên bản mới nhất : 1.7.1
 
 (9:03 7/3/2022) (Sửa lỗi văng ứng dụng trên Android cũ)
 
-Dịch Tiếng Việt bởi : [Cuynu😶](https://m.youtube.com/cuynudtw)
+Dịch Tiếng Việt bởi : [Cuynu](https://m.youtube.com/cuynudtw)
 
 Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phiên bản Tiếng Việt này.
 
@@ -42,19 +42,7 @@ Tải về tại đây :
 
 Tải xuống phiên bản cũ hơn tại :
 
- [v2rayNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
-
-Ủng hộ mình tại đây:  
-
-[Ủng hộ Cuynu](https://github.com/cuynu/v2rayvn/wiki/Donate)
-
-
- 
-
-
-
-
-
+ [v2rayNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases
 
 Thống kê số lần v2rayNG Tiếng Việt được tải về
 
@@ -79,5 +67,5 @@ Tải về phiên bản gốc Tiếng Anh của v2rayNG tại Google Play
 #### 2dust/v2rayNG
 [Đi đến 2dust/v2rayNG](https://github.com/2dust/v2rayng)
 
-[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.7.1.zip)
+[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.7.2.zip)
 
