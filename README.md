@@ -6,7 +6,7 @@ Phiên bản mới nhất : 1.7.2
 
 (0:37 16/3/2022)
 
-Dịch Tiếng Việt bởi : [Cuynu](https://m.youtube.com/cuynudtw)
+Dịch Tiếng Việt bởi : [Cuynu]
 
 Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phiên bản Tiếng Việt này.
 
@@ -30,7 +30,7 @@ Bạn cần dùng phiên bản Android 5.0 trở lên để sử dụng v2rayNG.
 
 ____________________________________________________
 
-Mình có làm thêm v2flyNG Tiếng việt ạ, cách sử dụng như v2rayNG nhé :3
+Mình có làm thêm v2flyNG Tiếng việt, cách sử dụng như v2rayNG nhé.
 
 
 Tải về tại đây : 
@@ -48,7 +48,7 @@ Tải xuống phiên bản cũ hơn tại :
 
 Thống kê số lần v2rayNG Tiếng Việt được tải về
 
-[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/1.7.1/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
+[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/latest/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
 ____________________________________________________
 ____________________________________________________
 
