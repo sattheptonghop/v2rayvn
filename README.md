@@ -16,7 +16,7 @@ Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phi�
 
 Tôi đã chia sẻ miễn phí cho cộng đồng, VUI LÒNG KHÔNG LẠM DỤNG HAY CHỈNH SỬA NÓ
 
-Báo cáo lỗi khi sử dụng v2rayNG tại đây : [Feedback](t.me/feedbackvmess)
+Báo cáo lỗi khi sử dụng v2rayNG tại đây : [Feedback](https://t.me/feedbackvmess)
 
 Tải về v2rayNG Tiếng Việt tại:  
 
