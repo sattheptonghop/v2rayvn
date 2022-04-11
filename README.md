@@ -24,7 +24,7 @@ Tải về v2rayNG Tiếng Việt tại:
 <img alt="Tải về v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
 </a>
 
-v2rayNG hiện chỉ có sẵn cho Android.
+v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source)
 
 Bạn cần dùng phiên bản Android 5.0 trở lên để sử dụng v2rayNG.
 
