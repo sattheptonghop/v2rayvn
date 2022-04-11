@@ -18,7 +18,7 @@ Tôi đã chia sẻ miễn phí cho cộng đồng, VUI LÒNG KHÔNG LẠM DỤN
 
 Báo cáo lỗi khi sử dụng v2rayNG tại đây : [Feedback](https://t.me/feedbackvmess)
 
-Tải về v2rayNG Tiếng Việt tại:  
+Tải xuống v2rayNG Tiếng Việt tại:  
 
 <a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.3fix/v2rayNG_1.7.3fix.apk">
 <img alt="Tải về v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
@@ -26,15 +26,15 @@ Tải về v2rayNG Tiếng Việt tại:
 
 v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source)
 
-Bạn cần dùng phiên bản Android 5.0 trở lên để sử dụng v2rayNG.
+Bạn cần dùng phiên bản Android 5.0 trở lên để có thể sử dụng v2rayNG.
 
 ____________________________________________________
 
-Mình có làm thêm v2flyNG Tiếng việt, cách sử dụng như v2rayNG nhé.
+Mình có làm thêm v2flyNG Tiếng việt, cách sử dụng như v2rayNG.
 
 Phiên bản hiện tại của v2flyNG : v1.7.3
 
-Tải về tại đây : 
+Tải xuống tại đây : 
 
 [Tải xuống v2flyNG Tiếng Việt v1.7.3](https://github.com/cuynu/v2rayvn/releases/download/1.7.3fix/v2flyNG_1.7.3.apk)
 
@@ -45,7 +45,7 @@ Tải về tại đây :
 
 Tải xuống phiên bản cũ hơn tại :
 
- [v2rayNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
+ [v2rayNG/v2flyNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
 
 Thống kê số lần v2rayNG Tiếng Việt được tải về (Tính theo phiên bản mới nhất)
 
