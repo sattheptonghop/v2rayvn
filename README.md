@@ -47,7 +47,7 @@ Tải xuống phiên bản cũ hơn tại :
 
  [v2rayNG/v2flyNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
 
-Thống kê số lần v2rayNG Tiếng Việt được tải về (Tính theo phiên bản mới nhất)
+Thống kê số lần v2rayNG Tiếng Việt được tải về
 
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
 ____________________________________________________
