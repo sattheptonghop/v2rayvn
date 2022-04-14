@@ -12,6 +12,8 @@ Hãy gỡ cài đặt v2rayNG phiên bản Tiếng Anh sau đó cài đặt phi�
 
 [Hướng dẫn sao lưu File/Cấu hình/Code từ v2rayNG bản Gốc và nhập sang v2rayNG Tiếng Việt](https://github.com/cuynu/v2rayvn/wiki/Backup)
 
+Bạn đang muốn tìm v2flyNG Tiếng Việt? [Tải xuống v2flyNG Tiếng Việt](https://github.com/cuynu/v2rayvn/blob/main/README.md#t%E1%BA%A3i-xu%E1%BB%91ng-v2flyng-t%E1%BA%A1i-%C4%91%C3%A2y-)
+
 Ứng dụng này được làm với mục đích phi lợi nhuận, sẽ mãi mãi miễn phí.
 
 Tôi đã chia sẻ miễn phí cho cộng đồng, VUI LÒNG KHÔNG LẠM DỤNG HAY CHỈNH SỬA NÓ
