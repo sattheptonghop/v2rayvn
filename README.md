@@ -2,21 +2,19 @@
 
 v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
-Phiên bản mới nhất : 1.7.4
+Phiên bản APK đóng gói mới nhất : 1.7.4
 
-Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên Google Play.
+**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên Google Play, tuy nhiên nó chưa hoàn thiện hẳn. Mình sẽ hoàn thiện lại.**
+
+<a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
+</a>
 
 (13:30 20/4/2022)
 
 Dịch Tiếng Việt bởi : [Cuynu]
 
-[Hướng dẫn sao lưu File/Cấu hình/Code từ v2rayNG bản Gốc và nhập sang v2rayNG Tiếng Việt](https://github.com/cuynu/v2rayvn/wiki/Backup)
-
 Bạn đang muốn tìm v2flyNG Tiếng Việt? [Tải xuống v2flyNG Tiếng Việt](https://github.com/cuynu/v2rayvn/blob/main/README.md#t%E1%BA%A3i-xu%E1%BB%91ng-v2flyng-t%E1%BA%A1i-%C4%91%C3%A2y-)
-
-Ứng dụng này được làm với mục đích phi lợi nhuận, sẽ mãi mãi miễn phí.
-
-Tôi đã chia sẻ miễn phí cho cộng đồng, VUI LÒNG KHÔNG LẠM DỤNG HAY CHỈNH SỬA NÓ
 
 Báo cáo lỗi khi sử dụng v2rayNG tại đây : [Feedback](https://t.me/feedbackvmess)
 
@@ -29,6 +27,8 @@ Tải xuống v2rayNG Tiếng Việt tại:
 v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source)
 
 Bạn cần dùng phiên bản Android 5.0 trở lên để có thể sử dụng v2rayNG.
+
+[Hướng dẫn sao lưu File/Cấu hình/Code từ v2rayNG bản Gốc và nhập sang v2rayNG Tiếng Việt](https://github.com/cuynu/v2rayvn/wiki/Backup)
 
 ____________________________________________________
 
@@ -73,5 +73,5 @@ Tải về phiên bản gốc Tiếng Anh của v2rayNG tại Google Play
 #### 2dust/v2rayNG
 [Đi đến 2dust/v2rayNG](https://github.com/2dust/v2rayng)
 
-[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.7.3.zip)
+[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.7.4.zip)
 
