@@ -2,7 +2,7 @@
 
 v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
-Phiên bản APK đóng gói mới nhất : 1.7.4
+Phiên bản APK đóng gói mới nhất : 1.7.3 (Phiên bản thử nghiệm : 1.7.4)
 
 **Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên Google Play, tuy nhiên nó chưa hoàn thiện hẳn. Mình sẽ hoàn thiện lại.**
 
@@ -20,9 +20,13 @@ Báo cáo lỗi khi sử dụng v2rayNG tại đây : [Feedback](https://t.me/fe
 
 Tải xuống v2rayNG Tiếng Việt tại:  
 
-<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.4/v2rayNG_1.7.4.apk">
-<img alt="Tải về v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
+<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.3fix/v2rayNG_1.7.3fix.apk">
+<img alt="Tải xuống v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
 </a>
+
+Tải xuống phiên bản thử nghiệm của v2rayNG, Lưu ý : Phiên bản thử nghiệm thường có nhiều lỗi !
+
+[Tải xuống phiên bản thử nghiệm v2rayNG 1.7.4](https://github.com/cuynu/v2rayvn/releases/download/1.7.4/v2rayNG_1.7.4.apk)
 
 v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source)
 
