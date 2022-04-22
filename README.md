@@ -26,7 +26,7 @@ Tải xuống v2rayNG Tiếng Việt tại:
 
 Tải xuống phiên bản thử nghiệm của v2rayNG, Lưu ý : Phiên bản thử nghiệm thường có nhiều lỗi !
 
-[Tải xuống phiên bản thử nghiệm v2rayNG 1.7.4](https://github.com/cuynu/v2rayvn/releases/download/1.7.4/v2rayNG_1.7.4.apk)
+[Tải xuống phiên bản thử nghiệm v2rayNG 1.7.4](https://github.com/cuynu/v2rayvn/releases/download/1.7.4/v2rayNG_1.7.4_beta.apk)
 
 v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source)
 
