@@ -4,7 +4,7 @@ v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github
 
 Phiên bản APK đóng gói mới nhất : 1.7.3 (Phiên bản thử nghiệm : 1.7.4)
 
-**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên Google Play, tuy nhiên nó chưa hoàn thiện hẳn. Mình sẽ hoàn thiện lại.**
+**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên Google Play dưới dạng phiên bản Beta, tuy nhiên nó chưa hoàn thiện hẳn. Mình sẽ hoàn thiện lại.**
 
 <a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
