@@ -4,7 +4,7 @@ v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github
 
 Phiên bản APK đóng gói mới nhất : 1.7.6
 
-**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên Google Play dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên dưới nếu bạn không muốn tải xuống từ Google Play, Mình đã cống hiến khá nhiều thứ để duy trì trang này và giúp 2dust đưa bản dịch Tiếng Việt lên v2rayNG chính thức 😘**
+**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên [Google Play](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1) dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên dưới nếu bạn không muốn tải xuống từ Google Play, Mình đã cống hiến khá nhiều thứ để duy trì trang này và giúp [2dust](https://github.com/2dust) đưa bản dịch Tiếng Việt lên v2rayNG chính thức 😘**
 
 <a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
@@ -35,7 +35,7 @@ ____________________________________________________
 
 Mình có làm thêm v2flyNG Tiếng việt, cách sử dụng như v2rayNG.
 
-Phiên bản hiện tại của v2flyNG : v1.7.3
+Phiên bản hiện tại của v2flyNG : v1.7.4
 
 ### Tải xuống v2flyNG tại đây : 
 
@@ -50,29 +50,19 @@ Tải xuống phiên bản cũ hơn tại :
 
  [v2rayNG/v2flyNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
 
-Thống kê số lần v2rayNG Tiếng Việt được tải về
+Thống kê số lần v2rayNG Tiếng Việt được tải xuống
 
-[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/latest/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
+[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
 ____________________________________________________
 ____________________________________________________
 
 
 
-
-
-Tải về phiên bản gốc của v2rayNG tại Google Play
-
-
-(Bạn vẫn nên tải phiên bản Tiếng Việt để có thể sử dụng v2rayNG dễ dàng hơn.)
-
-<a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
-</a>
 
 ### Thông tin về người phát triển gốc của v2rayNG
 
-#### 2dust/v2rayNG
+#### 2dust/v2rayNG official pages
 [Đi đến 2dust/v2rayNG](https://github.com/2dust/v2rayng)
 
-[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.7.4.zip)
+[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.7.6.zip)
 
