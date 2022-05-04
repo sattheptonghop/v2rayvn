@@ -39,7 +39,7 @@ Phiên bản hiện tại của v2flyNG : v1.7.4
 
 ### Tải xuống v2flyNG tại đây : 
 
-[Tải xuống v2flyNG Tiếng Việt v1.7.3](https://github.com/cuynu/v2rayvn/releases/download/1.7.3fix/v2flyNG_1.7.3.apk)
+[Tải xuống v2flyNG Tiếng Việt v1.7.4](https://github.com/cuynu/v2rayvn/releases/download/1.7.6/v2flyNG_1.7.4_1000451_arm7.apk)
 
 
 [Hướng dẫn cài đặt v2rayNG trên Android cho người mới bắt đầu](https://github.com/cuynu/v2rayvn/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-%E1%BB%A9ng-d%E1%BB%A5ng-cho-ng%C6%B0%E1%BB%9Di-b%E1%BA%AFt-%C4%91%E1%BA%A7u)
