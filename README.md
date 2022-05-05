@@ -2,9 +2,9 @@
 
 v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
-Phiên bản APK đóng gói mới nhất : 1.7.6
+Phiên bản APK đóng gói mới nhất : 1.7.7
 
-**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên [Google Play](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1) dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên dưới nếu bạn không muốn tải xuống từ Google Play, Mình đã cống hiến khá nhiều thứ để duy trì trang này và giúp [2dust](https://github.com/2dust) đưa bản dịch Tiếng Việt lên v2rayNG chính thức 😘**
+**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên [Google Play](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1) dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên dưới nếu bạn không muốn tải xuống từ Google Play.** 
 
 <a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
@@ -20,7 +20,7 @@ Báo cáo lỗi khi sử dụng v2rayNG Tiếng Việt tại đây : [Feedback](
 
 Tải xuống v2rayNG Tiếng Việt phiên bản ổn định nhất tại:  
 
-<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.6/v2rayNG_1.7.6.apk">
+<a href="https://github.com/2dust/v2rayNG/releases/download/1.7.7/v2rayNG_1.7.7.apk">
 <img alt="Tải xuống v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
 </a>
 
