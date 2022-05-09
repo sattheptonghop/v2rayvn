@@ -20,7 +20,7 @@ Báo cáo lỗi khi sử dụng v2rayNG Tiếng Việt tại đây : [Feedback](
 
 Tải xuống v2rayNG Tiếng Việt phiên bản ổn định nhất tại:  
 
-<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.7/v2rayNG_1.7.7.apk">
+<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.7/v2rayNG_1.7.7_sign.apk">
 <img alt="Tải xuống v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
 </a>
 
