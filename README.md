@@ -39,5 +39,5 @@ Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
 ____________________________________________________
 
-v2rayNG Tiếng Việt có thể compile trực tiếp được bằng Android Studio.
+v2rayNG Tiếng Việt có thể compile trực tiếp bằng Android Studio.
 
