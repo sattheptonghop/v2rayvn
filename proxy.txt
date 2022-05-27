@@ -1,3 +1,0 @@
-com.zing.zalo
-com.zing.zavi
-com.haegin.playtogether
