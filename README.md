@@ -12,28 +12,21 @@ Phiên bản APK đóng gói mới nhất : 1.7.8
 
 (15:51 13/5/2022)
 
-Dịch Tiếng Việt bởi : Cuynu : [Ủng Hộ Mình](https://m.youtube.com/cuynudtw)
+Dịch Tiếng Việt bởi : CuynuTT
 
 Bạn đang muốn tìm v2flyNG Tiếng Việt? [Tải xuống v2flyNG Tiếng Việt](https://github.com/cuynu/v2rayvn/blob/main/README.md#t%E1%BA%A3i-xu%E1%BB%91ng-v2flyng-t%E1%BA%A1i-%C4%91%C3%A2y-)
 
-Báo cáo lỗi khi sử dụng v2rayNG Tiếng Việt tại đây : [Feedback](https://t.me/feedbackvmess)
-
-Tải xuống v2rayNG Tiếng Việt phiên bản ổn định nhất tại:  
+Tải xuống v2rayNG Tiếng Việt phiên bản mới nhất tại:  
 
 <a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.8/v2rayNG_1.7.8_sign.apk">
 <img alt="Tải xuống v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
 </a>
 
-
-v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source)
-
-Bạn cần dùng phiên bản Android 5.0 trở lên để có thể sử dụng v2rayNG.
-
-[Hướng dẫn sao lưu File/Cấu hình/Code từ v2rayNG bản Gốc và nhập sang v2rayNG Tiếng Việt](https://github.com/cuynu/v2rayvn/wiki/Backup)
+v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source), Mã nguồn mở trên repo đã có sẵn.
 
 ____________________________________________________
 
-Mình có làm thêm v2flyNG Tiếng việt, cách sử dụng như v2rayNG.
+## V2FlyNG Tiếng Việt
 
 Phiên bản hiện tại của v2flyNG : v1.7.4
 
@@ -41,28 +34,10 @@ Phiên bản hiện tại của v2flyNG : v1.7.4
 
 [Tải xuống v2flyNG Tiếng Việt v1.7.4](https://github.com/cuynu/v2rayvn/releases/download/1.7.6/v2flyNG_1.7.4_1000451_arm7.apk)
 
-
-[Hướng dẫn cài đặt v2rayNG trên Android cho người mới bắt đầu](https://github.com/cuynu/v2rayvn/wiki/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-%E1%BB%A9ng-d%E1%BB%A5ng-cho-ng%C6%B0%E1%BB%9Di-b%E1%BA%AFt-%C4%91%E1%BA%A7u)
-
-[Các vấn đề thường gặp trong v2rayNG](https://github.com/cuynu/v2rayvn/wiki/V%E1%BA%A5n-%C4%91%E1%BB%81-th%C6%B0%E1%BB%9Dng-g%E1%BA%B7p-tr%C3%AAn-v2rayNG)
-
-Tải xuống phiên bản cũ hơn tại :
-
- [v2rayNG/v2flyNG Tiếng Việt phiên bản cũ](https://github.com/cuynu/v2rayvn/releases)
-
-Thống kê số lần v2rayNG Tiếng Việt được tải xuống
+Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 
 [![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
 ____________________________________________________
-____________________________________________________
 
-
-
-
-### Thông tin về người phát triển gốc của v2rayNG
-
-#### 2dust/v2rayNG official pages
-[Đi đến 2dust/v2rayNG](https://github.com/2dust/v2rayng)
-
-[Tải xuống mã nguồn mở (Source Code của v2rayNG)](https://github.com/2dust/v2rayNG/archive/refs/tags/1.7.6.zip)
+v2rayNG Tiếng Việt có thể compile trực tiếp được bằng Android Studio.
 
