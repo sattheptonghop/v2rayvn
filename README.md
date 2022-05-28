@@ -3,7 +3,8 @@
 v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
 Phiên bản APK đóng gói mới nhất : 1.7.8
-Ngày cập nhật : (15:51 13/5/2022)
+
+Ngày cập nhật : (15:51 28/5/2022)
 
 Source code của v2rayNG đã có sẵn trên repository này, bạn có thể tải xuống và tự biên dịch code của mình qua Android Studio hay Gradle.
 
