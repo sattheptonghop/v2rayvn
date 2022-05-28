@@ -3,14 +3,9 @@
 v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
 Phiên bản APK đóng gói mới nhất : 1.7.8
+Ngày cập nhật : (15:51 13/5/2022)
 
-**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên [Google Play](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1) dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên dưới nếu bạn không muốn tải xuống từ Google Play.** 
-
-<a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
-<img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
-</a>
-
-(15:51 13/5/2022)
+Source code của v2rayNG đã có sẵn trên repository này, bạn có thể tải xuống và tự biên dịch code của mình qua Android Studio hay Gradle.
 
 Dịch Tiếng Việt bởi : CuynuTT
 
@@ -20,6 +15,12 @@ Tải xuống v2rayNG Tiếng Việt phiên bản mới nhất tại:
 
 <a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.8/v2rayNG_1.7.8_sign.apk">
 <img alt="Tải xuống v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="100" />
+</a>
+
+**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu đã có sẵn trên [Google Play](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1) dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên dưới nếu bạn không muốn tải xuống từ Google Play.** 
+
+<a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
 </a>
 
 v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source), Mã nguồn mở trên repo đã có sẵn.
