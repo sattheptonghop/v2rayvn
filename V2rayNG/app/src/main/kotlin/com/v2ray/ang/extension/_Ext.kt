@@ -6,6 +6,7 @@ import android.widget.Toast
 import com.v2ray.ang.AngApplication
 import me.drakeet.support.toast.ToastCompat
 import org.json.JSONObject
+import java.net.URI
 import java.net.URLConnection
 
 /**
@@ -73,4 +74,7 @@ private fun Float.toShortString(): String {
 }
 
 val URLConnection.responseLength: Long
-    get() = if (Build.VERSION.SDK_INT >= 24) contentLengthLong else contentLength.toLong()
+    get() = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) contentLengthLong else contentLength.toLong()
+
+val URI.idnHost: String
+    get() = (host!!).replace("[", "").replace("]", "")
