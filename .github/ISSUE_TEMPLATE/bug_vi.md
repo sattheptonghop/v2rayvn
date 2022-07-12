@@ -17,7 +17,7 @@ Vui lòng tự khắc phục sự cố phía máy chủ trước khi đặt câu
  2.
  3.
 
- ### thông tin nhật ký
+ ### Thông tin nhật ký
  <chi tiết>
 
  Nhận nhật ký qua `adb logcat -s com.v2ray.ang GoLog V2rayConfigUtilGoLog Main`.  Vui lòng xóa thông tin nhạy cảm có thể xuất hiện trong nhật ký của chính bạn.
