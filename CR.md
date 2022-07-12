@@ -1,29 +1,27 @@
-v2rayNG 隐私条款
+Chính sách quyền riêng tư của v2rayNG
 
-最后更新 2017-11-22
+ Cập nhật lần cuối 2017-11-22 
 
-v2rayNG 尊重并保护所有用户的个人隐私权，为此我们向大众公开这份隐私条款。**您使用 v2rayNG 即代表您以阅读并同意了这份条款，如果您不同意这份条款请立即停止使用并卸载 v2rayNG。**
+v2rayNG tôn trọng và bảo vệ quyền riêng tư cá nhân của tất cả người dùng, vì vậy chúng tôi công khai chính sách bảo mật này với mọi người. **Việc bạn sử dụng v2rayNG có nghĩa là bạn đã đọc và đồng ý với các điều khoản, nếu không đồng ý với các điều khoản, vui lòng ngừng sử dụng và gỡ cài đặt v2rayNG ngay lập tức.** 
 
-1. 信息收集
+1. Thu thập thông tin 
 
-	v2rayNG 软件自身不会发送任何信息到开发者，但是您下载软件的应用市场（如 Google Play）可能会收集关于应用运行状态的相关信息并提供给 v2rayNG 开发者。有关这些信息，请阅读您使用的应用市场所提供的隐私条款。
+Bản thân phần mềm v2rayNG không gửi bất kỳ thông tin nào cho nhà phát triển, nhưng thị trường ứng dụng nơi bạn tải xuống phần mềm (chẳng hạn như Google Play) có thể thu thập thông tin liên quan về trạng thái đang chạy của ứng dụng và cung cấp cho nhà phát triển v2rayNG. Để biết thông tin này, vui lòng đọc chính sách bảo mật được cung cấp bởi thị trường bạn sử dụng.
 
-	v2rayNG 软件中可能包含需要通过 IAP 支付解锁的功能，您的支付信息将由相关的 IAP 渠道进行处理，而我们对支付信息没有访问权。
 
-	当您向 v2rayNG 开发者反馈软件运行中的错误时，开发者可能会要求您提供软件以及系统的日志以帮助确认问题的原因。因日志中可能包括敏感信息，此类信息只能由您自己操作发送。**我们不对任何传输服务的安全性和隐私性做任何明示或暗示的担保，请您在传送相关信息时选择可以您自身可以接受的方式。**
+2. Chia sẻ thông tin
+ 
+Chúng tôi không bán dữ liệu người dùng đã thu thập cho bất kỳ bên thứ ba nào. Chúng tôi có thể cung cấp thông tin cho các nhà phát triển bên ngoài để hỗ trợ phát triển phần mềm, nhưng chúng tôi sẽ thông báo các nghĩa vụ bảo mật liên quan và xác định rằng chúng có thể được tuân thủ trước khi cung cấp thông tin.
 
-2. 信息共享
+3. Lưu trữ thông tin 
 
-	我们不会向任何第三方出售收集到的用户数据。我们可能向外部开发者提供信息以协助软件的开发，但是在提供信息之前我们会传达相关保密义务并确定其可以遵守。
+Trừ khi luật pháp yêu cầu, chúng tôi sẽ xóa dữ liệu người dùng không còn cần thiết trong vòng 30 ngày hoặc tổng hợp số liệu thống kê thành các báo cáo tổng hợp không xác định người dùng cá nhân.
 
-3. 信息存留
 
-	除非有相关法律规定，我们会在 30 天内清除不需要继续使用的用户数据，或将统计数据整合为无法识别单个用户的综合报告。
+4. Lộ thông tin
 
-4. 信息泄露
+ Chúng tôi sẽ cố gắng hết sức để bảo vệ dữ liệu của người dùng bằng các phương tiện kỹ thuật và bảo mật hợp lý, nhưng chúng tôi không thể đảm bảo tính bảo mật tuyệt đối của dữ liệu. Nếu chúng tôi xác nhận rằng dữ liệu đã bị xâm phạm, chúng tôi sẽ thông báo cho người dùng thông qua các kênh khả dụng trong vòng 7 ngày. **Bạn đồng ý không chịu trách nhiệm cho chúng tôi về bất kỳ tổn thất nào do nguyên nhân bất khả kháng.**
 
-	我们会使用合理的技术和安全手段尽力保护用户的数据，但是无法保证数据的绝对安全。如果我们确认数据发生了泄露，我们会在 7 天内通过可用的渠道通知用户。**您同意不向我们追责任何因不可抗力而造成的损失。**
+5. Sửa đổi điều khoản 
 
-5. 条款修改
-
-	我们保留修改这份隐私条款的权利，但是会确保在更新条款前至少 30 天通过我们的可用渠道和应用内提示来通知用户。**在新条款生效后继续使用软件即表示您同意修改后的隐私条款。**
+Chúng tôi có quyền sửa đổi Chính sách Bảo mật này, nhưng sẽ đảm bảo rằng người dùng được thông báo qua các kênh có sẵn và cảnh báo trong ứng dụng của chúng tôi ít nhất 30 ngày trước khi cập nhật các điều khoản. **Bằng cách tiếp tục sử dụng phần mềm sau khi các điều khoản mới có hiệu lực, bạn đồng ý với các điều khoản bảo mật đã sửa đổi.**
