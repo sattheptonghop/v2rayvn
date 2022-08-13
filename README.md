@@ -4,7 +4,7 @@ v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github
 
 Phiên bản APK đóng gói mới nhất : 1.7.18
 
-Ngày cập nhật : (01:40 14/82022)
+Ngày cập nhật : (01:40 14/8/2022)
 
 Source code của v2rayNG đã có sẵn trên repository này, bạn có thể tải xuống và tự biên dịch code của mình qua Android Studio hay Gradle.
 
