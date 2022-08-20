@@ -30,11 +30,11 @@ ____________________________________________________
 
 ## V2FlyNG Tiếng Việt
 
-Phiên bản hiện tại của v2flyNG : v1.7.4
+Phiên bản hiện tại của v2flyNG : v1.7.17
 
 ### Tải xuống v2flyNG tại đây : 
 
-[Tải xuống v2flyNG Tiếng Việt v1.7.4](https://github.com/cuynu/v2rayvn/releases/download/1.7.6/v2flyNG_1.7.4_1000451_arm7.apk)
+[Tải xuống v2flyNG Tiếng Việt v1.7.17](https://github.com/cuynu/v2rayvn/releases/download/1.7.17/v2flyNG_1.7.17_sign.apk)
 
 Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 
