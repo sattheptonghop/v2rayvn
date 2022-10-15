@@ -54,8 +54,12 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
 
     fun reloadServerList() {
         serverList = MmkvManager.decodeServerList()
-        updateCache()
-        updateListAction.value = -1
+        viewModelScope.launch(Dispatchers.Default) {
+            updateCache()
+            launch(Dispatchers.Main) {
+                updateListAction.value = -1
+            }
+        }
     }
 
     fun removeServer(guid: String) {
