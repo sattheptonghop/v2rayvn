@@ -68,6 +68,13 @@
         <item>randomized</item>
     </string-array>
 
+    <string-array name="streamsecurity_alpn" translatable="false">
+        <item></item>
+        <item>h2</item>
+        <item>http/1.1</item>
+        <item>h2,http/1.1</item>
+    </string-array>
+
     <string-array name="allowinsecures" translatable="false">
         <item></item>
         <item>true</item>
@@ -154,6 +161,7 @@
         <item>中文简体</item>
         <item>中文繁體</item>
         <item>Tiếng Việt</item>
+        <item>Русский</item>
     </string-array>
 
 
@@ -163,5 +171,6 @@
         <item>zh-rCN</item>
         <item>zh-rTW</item>
         <item>vi</item>
+        <item>ru</item>
     </string-array>
 </resources>
