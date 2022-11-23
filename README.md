@@ -13,8 +13,7 @@ Ngày cập nhật : (23:40 14/11/2022)
 
 Dịch Tiếng Việt bởi : Cuynu
 
-Bạn đang muốn tìm v2flyNG Tiếng Việt? [Tải xuống v2flyNG Tiếng Việt](https://github.com/cuynu/v2rayvn/blob/main/README.md#t%E1%BA%A3i-xu%E1%BB%91ng-v2flyng-t%E1%BA%A1i-%C4%91%C3%A2y-)
-
+Bạn đang muốn tìm v2flyNG Tiếng Việt? [Tải xuống v2flyNG Tiếng Việt](https://github.com/cuynu/v2rayvn#v2flyng-ti%E1%BA%BFng-vi%E1%BB%87t)
 ____________________________________________________
 
 ## Tải xuống v2rayNG Tiếng Việt phiên bản mới nhất tại:  
