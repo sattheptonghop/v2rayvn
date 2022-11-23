@@ -6,8 +6,7 @@ Phiên bản APK đóng gói mới nhất : 1.7.26
 
 Ngày cập nhật : (23:40 14/11/2022)
 
-Source code của v2rayNG đã có sẵn trên repository này, bạn có thể tải xuống và tự biên dịch code của mình qua Android Studio hay Gradle.
-
+v2rayNG là ứng dụng "mã nguồn mở", bạn có thể tự tải xuống mã nguồn trên repository và chỉnh sửa theo ý của bạn theo giấy phép GNU 
 Dịch Tiếng Việt bởi : CuynuTT
 
 Bạn đang muốn tìm v2flyNG Tiếng Việt? [Tải xuống v2flyNG Tiếng Việt](https://github.com/cuynu/v2rayvn/blob/main/README.md#t%E1%BA%A3i-xu%E1%BB%91ng-v2flyng-t%E1%BA%A1i-%C4%91%C3%A2y-)
