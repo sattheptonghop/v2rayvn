@@ -4,7 +4,8 @@ v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github
 
 Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 
-[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/v2rayvn/total?logo=github)](https://github.com/cuynu/v2rayvn/releases)
+<a href="https://github.com/cuynu/v2rayvn"><img src="https://img.shields.io/github/downloads/cuynu/v2rayvn/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
+</p>
 
 Phiên bản APK đóng gói mới nhất : 1.7.26
 
