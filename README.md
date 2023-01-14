@@ -7,9 +7,9 @@ Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 <a href="https://github.com/cuynu/v2rayvn"><img src="https://img.shields.io/github/downloads/cuynu/v2rayvn/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
 </p>
 
-Phiên bản APK đóng gói mới nhất : 1.7.30
+Phiên bản APK đóng gói mới nhất : 1.7.34
 
-Ngày cập nhật : (19:07 13/12/2022)
+Ngày cập nhật : (19:07 14/01/2023)
 
 
 Dịch Tiếng Việt bởi : Cuynu
@@ -19,7 +19,7 @@ ____________________________________________________
 
 ## Tải xuống v2rayNG Tiếng Việt phiên bản mới nhất tại:  
 
-<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.30/v2rayNG_1.7.30.apk">
+<a href="https://github.com/cuynu/v2rayvn/releases/download/1.7.34/v2rayNG_1.7.34.apk">
 <img alt="Tải xuống v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="90" />
 </a>
 
