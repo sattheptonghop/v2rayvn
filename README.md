@@ -9,7 +9,7 @@ Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 
 Phiên bản APK đóng gói mới nhất : 1.7.34
 
-Ngày cập nhật : (19:07 14/01/2023)
+Ngày cập nhật : (16:51 14/01/2023)
 
 
 Dịch Tiếng Việt bởi : Cuynu
