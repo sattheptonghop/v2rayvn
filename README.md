@@ -22,7 +22,8 @@ ____________________________________________________
 <img alt="Tải xuống v2rayNG" src="https://github.com/cuynu/v2rayvn/releases/download/1.7.3/1648277008370.png" width="300" height="90" />
 </a>
 
-**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi CuynuTT đã có sẵn trên [Google Play](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1) dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên trên nếu bạn không muốn tải xuống từ Google Play.** 
+**Từ phiên bản 1.7.4, Bản dịch Tiếng Việt của v2rayNG bởi Cuynu và [user09283](https://github.com/user09283)
+ đã có sẵn trên [Google Play](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1) dưới dạng phiên bản chính thức, tuy nhiên bạn vẫn có thể tải xuống APK bên trên nếu bạn không muốn tải xuống từ Google Play.** 
 
 <a href="https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.v2ray.ang&ddl=1&pcampaignid=web_ddl_1">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
