@@ -29,7 +29,7 @@ ____________________________________________________
 <img alt="Get it on Google Play" src="https://play.google.com/intl/vi_vn/badges/images/generic/vi_badge_web_generic.png" width="165" height="64" />
 </a>
 
-v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source), Mã nguồn mở trên repo đã có sẵn.
+v2rayNG hiện chỉ có sẵn cho Android và là ứng dụng mã nguồn mở (Open-source), Mã nguồn mở trên repository đã có sẵn.
 
 ____________________________________________________
 
