@@ -22,7 +22,7 @@
         <!--android:summary="@string/summary_pref_mux_enabled"-->
         <!--android:title="@string/title_pref_mux_enabled" />-->
         <CheckBoxPreference
-            android:defaultValue="false"
+            android:defaultValue="true"
             android:key="pref_proxy_sharing_enabled"
             android:summary="@string/summary_pref_proxy_sharing_enabled"
             android:title="@string/title_pref_proxy_sharing_enabled" />
@@ -32,6 +32,28 @@
             android:key="pref_allow_insecure"
             android:summary="@string/summary_pref_allow_insecure"
             android:title="@string/title_pref_allow_insecure" />
+
+        <EditTextPreference
+            android:key="pref_socks_port"
+            android:summary="10808"
+            android:inputType="number"
+            android:title="@string/title_pref_socks_port" />
+
+        <EditTextPreference
+            android:key="pref_http_port"
+            android:summary="10809"
+            android:inputType="number"
+            android:title="@string/title_pref_http_port" />
+
+        <EditTextPreference
+            android:key="pref_remote_dns"
+            android:summary="@string/summary_pref_remote_dns"
+            android:title="@string/title_pref_remote_dns" />
+
+        <EditTextPreference
+                android:key="pref_domestic_dns"
+                android:summary="@string/summary_pref_domestic_dns"
+                android:title="@string/title_pref_domestic_dns" />
 
         <ListPreference
                 android:defaultValue="VPN"
