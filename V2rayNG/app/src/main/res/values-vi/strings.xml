@@ -18,19 +18,19 @@
     <string name="toast_services_failure">Không thể bắt đầu v2rayNG, kiểm tra lại cấu hình hoặc khởi động lại thiết bị.</string>
 
     <!--ServerActivity-->
-    <string name="title_server">v2rayNG</string>
+    <string name="title_server">V2RayNG</string>
     <string name="menu_item_add_config">Thêm cấu hình</string>
     <string name="menu_item_save_config">Lưu cấu hình</string>
     <string name="menu_item_del_config">Xoá cấu hình</string>
     <string name="menu_item_import_config_qrcode">Nhập cấu hình từ mã QR</string>
-    <string name="menu_item_import_config_clipboard">Nhập cấu hình từ Clipboard</string>
+    <string name="menu_item_import_config_clipboard">Nhập cấu hình từ bộ nhớ tạm thời</string>
     <string name="menu_item_import_config_manually_vmess">Nhập thủ công [Vmess]</string>
     <string name="menu_item_import_config_manually_vless">Nhập thủ công [VLESS]</string>
     <string name="menu_item_import_config_manually_ss">Nhập thủ công [Shadowsocks]</string>
     <string name="menu_item_import_config_manually_socks">Nhập thủ công [Socks]</string>
     <string name="menu_item_import_config_manually_trojan">Nhập thủ công [Trojan]</string>
     <string name="menu_item_import_config_custom">Nâng cao / Cấu hình tùy chỉnh</string>
-    <string name="menu_item_import_config_custom_clipboard">Nhập cấu hình tùy chỉnh từ Clipboard</string>
+    <string name="menu_item_import_config_custom_clipboard">Nhập cấu hình tùy chỉnh từ bộ nhớ tạm thời</string>
     <string name="menu_item_import_config_custom_local">Nhập cấu hình tùy chỉnh từ Tệp</string>
     <string name="menu_item_import_config_custom_url">Nhập cấu hình tùy chỉnh từ URL</string>
     <string name="menu_item_import_config_custom_url_scan">Nhập cấu hình tùy chỉnh quét URL</string>
@@ -48,7 +48,7 @@
     <string name="server_lab_request_host">Yêu cầu host (Host/WS/H2) / Bảo mật QUIC</string>
     <string name="server_lab_path">Đường dẫn (WS/H2) / Khóa QUIC / KCP seed / Dịch vụ gRPC</string>
     <string name="server_lab_stream_security">TLS</string>
-    <string name="server_lab_allow_insecure">Bỏ qua xác minh chứng chỉ</string>
+    <string name="server_lab_allow_insecure">Bỏ qua xác minh chứng chỉ (allowinsecure)</string>
     <string name="server_lab_sni">Địa chỉ SNI</string>
     <string name="server_lab_address3">Địa chỉ</string>
     <string name="server_lab_port3">Cổng</string>
@@ -70,10 +70,10 @@
     <string name="server_lab_content">Nội dung</string>
     <string name="toast_none_data_clipboard">Không có dữ liệu nào trong Clipboard!</string>
     <string name="toast_invalid_url">URL không hợp lệ hoặc trống!</string>
-    <string name="server_lab_need_inbound">Vui lòng đảm bảo cấu hình tùy chỉnh này không bị lỗi trước khi sử dụng!</string>
+    <string name="server_lab_need_inbound">Vui lòng đảm bảo cấu hình tùy chỉnh này không bị lỗi trước khi sử dụng.</string>
     <string name="toast_malformed_josn">Cấu hình không hợp lệ!</string>
     <string name="server_lab_request_host6">Host (SNI) (Bổ sung)</string>
-    <string name="toast_asset_copy_failed">Không thể sao chép tệp tin, hãy dùng trình quản lý tệp!</string>
+    <string name="toast_asset_copy_failed">Không thể sao chép tệp tin, hãy dùng trình quản lý tệp.</string>
     <string name="menu_item_add_file">Thêm tệp</string>
     <string name="menu_item_download_file">Tải xuống tệp tin</string>
 
@@ -86,7 +86,7 @@
     <string name="menu_item_select_proxy_app">Tự động chọn ứng dụng Proxy</string>
     <string name="msg_downloading_content">Đang tải xuống nội dung...</string>
     <string name="menu_item_export_proxy_app">Xuất và sao chép</string>
-    <string name="menu_item_import_proxy_app">Nhập từ Clipboard</string>
+    <string name="menu_item_import_proxy_app">Nhập từ bộ nhớ tạm thời</string>
 
 
     <!-- Preferences -->
@@ -102,11 +102,11 @@
     <string name="title_pref_speed_enabled">Cho phép hiển thị tốc độ mạng</string>
     <string name="summary_pref_speed_enabled">Hiển thị tốc độ mạng hiện tại trên thanh thông báo.\nBiểu tượng trên thanh trạng thái có thể thay đổi tùy vào mức sử dụng.</string>
 
-    <string name="title_pref_sniffing_enabled">Bật tính năng phát hiện luồng</string>
+    <string name="title_pref_sniffing_enabled">Cho phép Sniffing</string>
     <string name="summary_pref_sniffing_enabled">Thử chuyển kết nối hiện tại của bạn qua trung gian để trung gian xử lý kết nối về lại cho bạn. (Mặc định là bật, hãy tắt nó nếu kết nối không ổn định)</string>
 
     <string name="title_pref_local_dns_enabled">Cho phép DNS cục bộ</string>
-    <string name="summary_pref_local_dns_enabled">DNS được xử lý bởi mô đun của lõi DNS. (Khuyến nghị, nếu cần định tuyến Bỏ qua mạng LAN và địa chỉ đất liền)</string>
+    <string name="summary_pref_local_dns_enabled">DNS được xử lý bởi mô đun của lõi DNS. (Khuyến nghị, nếu cần định tuyến Bỏ qua mạng LAN và địa chỉ mainland)</string>
 
     <string name="title_pref_fake_dns_enabled">Cho phép DNS giả</string>
     <string name="summary_pref_fake_dns_enabled">DNS cục bộ trả về địa chỉ IP giả. (Nhanh hơn, nhưng có thể không hoạt động với một số ứng dụng)</string>
@@ -132,7 +132,7 @@
     <string name="toast_warning_pref_proxysharing_short">Cho phép kết nối từ mạng LAN, đảm bảo rằng bạn tin tưởng kết nối hiện tại!</string>
 
     <string name="title_pref_allow_insecure">Cho phép đặt lại Bỏ qua xác minh chứng chỉ</string>
-    <string name="summary_pref_allow_insecure">Khi kết nối TLS, đặt cài đặt Bỏ qua xác minh chứng chỉ thành mặc định.</string>
+    <string name="summary_pref_allow_insecure">Khi kết nối TLS, đặt cài đặt Bỏ qua xác minh chứng chỉ (allowinsecure) thành mặc định.</string>
 
     <string name="title_pref_socks_port">Cổng Proxy SOCKS5</string>
     <string name="summary_pref_socks_port">Cổng Proxy SOCKS5</string>
@@ -156,7 +156,7 @@
 
     <string name="title_core_loglevel">Mức độ nhật ký</string>
     <string name="title_mode">Chế độ kết nối</string>
-    <string name="title_mode_help">Nhấn vào đây nếu bạn cần trợ giúp!</string>
+    <string name="title_mode_help">Nhấn vào đây nếu bạn cần trợ giúp</string>
     <string name="title_language">Ngôn ngữ</string>
 
     <string name="title_logcat">Nhật ký hoạt động</string>
@@ -213,8 +213,8 @@
     <string-array name="routing_mode">
         <item>Proxy toàn cầu</item>
         <item>Bỏ qua địa chỉ LAN rồi Proxy</item>
-        <item>Bỏ qua địa chỉ đất liền rồi Proxy</item>
-        <item>Bỏ qua LAN và địa chỉ đất liền rồi Proxy</item>
+        <item>Bỏ qua địa chỉ mainland rồi Proxy</item>
+        <item>Bỏ qua LAN và địa chỉ mainland rồi Proxy</item>
         <item>Kết nối trực tiếp toàn cầu</item>
     </string-array>
 

@@ -171,10 +171,6 @@
     <string-array name="language_select_value" translatable="false">
         <item>auto</item>
         <item>en</item>
-        <item>zh-rCN</item>
-        <item>zh-rTW</item>
         <item>vi</item>
-        <item>ru</item>
-        <item>fa</item>
     </string-array>
 </resources>
