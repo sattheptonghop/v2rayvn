@@ -2,6 +2,10 @@
 
 v2rayNG với ngôn ngữ Tiếng Việt! ,hỗ trợ [Xray core](https://github.com/XTLS/Xray-core) và [v2fly core](https://github.com/v2fly/v2ray-core)
 
+Chất lượng mã nguồn (Source Code)
+
+[![CodeFactor](https://www.codefactor.io/repository/github/cuynu/v2rayvn/badge)](https://www.codefactor.io/repository/github/cuynu/v2rayvn)
+
 Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 
 <a href="https://github.com/cuynu/v2rayvn"><img src="https://img.shields.io/github/downloads/cuynu/v2rayvn/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
