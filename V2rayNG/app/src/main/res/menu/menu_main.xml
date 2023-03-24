@@ -2,6 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
+        android:id="@+id/filter_config"
+        android:icon="@drawable/ic_outline_filter_alt_white_24"
+        android:title="@string/title_filter_config"
+        app:showAsAction="ifRoom" />
+    <item
         android:icon="@drawable/ic_add_white_24dp"
         android:title="@string/menu_item_add_config"
         app:showAsAction="ifRoom">
@@ -59,11 +64,6 @@
             </item>
         </menu>
     </item>
-    <item
-        android:id="@+id/filter_config"
-        android:icon="@drawable/ic_outline_filter_alt_white_24"
-        android:title="@string/title_filter_config"
-        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/service_restart"
         android:title="@string/title_service_restart"
