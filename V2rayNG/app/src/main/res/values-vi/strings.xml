@@ -22,6 +22,8 @@
     <string name="menu_item_add_config">Thêm cấu hình</string>
     <string name="menu_item_save_config">Lưu cấu hình</string>
     <string name="menu_item_del_config">Xoá cấu hình</string>
+    <string name="title_del_duplicate_config">Xóa cấu hình bị trùng lặp</string>
+    <string name="title_del_duplicate_config_count">Xóa %d cấu hình bị trùng lặp</string>
     <string name="menu_item_import_config_qrcode">Nhập cấu hình từ mã QR</string>
     <string name="menu_item_import_config_clipboard">Nhập cấu hình từ bộ nhớ tạm thời</string>
     <string name="menu_item_import_config_manually_vmess">Nhập thủ công [Vmess]</string>
