@@ -16,10 +16,10 @@ android {
     defaultConfig {
         applicationId "com.v2ray.ang"
         minSdkVersion 21
-        targetSdkVersion Integer.parseInt("$targetSdkVer")
+        targetSdk 32
         multiDexEnabled true
-        versionCode 512
-        versionName "1.8.4-cuynu"
+        versionCode 514
+        versionName "1.8.5-cuynu"
     }
 
     if (props["sign"]) {
