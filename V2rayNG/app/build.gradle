@@ -18,8 +18,8 @@ android {
         minSdkVersion 21
         targetSdk 32
         multiDexEnabled true
-        versionCode 514
-        versionName "1.8.5-cuynu"
+        versionCode 516
+        versionName "1.8.6-cuynu"
     }
 
     if (props["sign"]) {
