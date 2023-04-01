@@ -99,20 +99,21 @@
 
     <!-- Preferences -->
     <string name="title_settings">Settings</string>
-    <string name="title_advanced">Advanced Settings</string>
+    <string name="title_advanced">Advanced/Misc Settings</string>
     <string name="title_vpn_settings">VPN Settings</string>
     <string name="title_pref_per_app_proxy">Per-app proxy</string>
     <string name="summary_pref_per_app_proxy">General: Checked App is proxy, unchecked direct connection; \nbypass mode: checked app directly connected, unchecked proxy. \nThe option to automatically select the proxy application in the menu</string>
-
     <string name="title_pref_mux_enabled">Enable Mux</string>
     <string name="summary_pref_mux_enabled">Enable maybe speed up network and switch network maybe flash</string>
+    <string name="title_pref_mux_concurrency">Mux Concurrency</string>
+    <string name="title_mux_settings">Mux options</string>
 
     <string name="title_pref_speed_enabled">Enable speed display</string>
     <string name="summary_pref_speed_enabled">Display current speed in the notification.\nNotification icon would change based on
         usage.</string>
 
     <string name="title_pref_sniffing_enabled">Enable Sniffing</string>
-    <string name="summary_pref_sniffing_enabled">Try sniff domain from the packet (default on)</string>
+    <string name="summary_pref_sniffing_enabled">Try sniff domain from the packet</string>
 
     <string name="title_pref_local_dns_enabled">Enable local DNS</string>
     <string name="summary_pref_local_dns_enabled">DNS processed by core‘s DNS module (Recommended, if need routing Bypassing LAN and

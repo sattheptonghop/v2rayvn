@@ -55,7 +55,7 @@ data class V2rayConfig(
                                   val port: Int? = null,
                                   val network: String? = null)
 
-        data class SniffingBean(var enabled: Boolean,
+        data class SniffingBean(var disabled: Boolean,
                                 val destOverride: ArrayList<String>,
                                 val metadataOnly: Boolean? = null)
     }
@@ -66,7 +66,7 @@ data class V2rayConfig(
                             var streamSettings: StreamSettingsBean? = null,
                             val proxySettings: Any? = null,
                             val sendThrough: String? = null,
-                            val mux: MuxBean? = MuxBean(false)) {
+                            val mux: MuxBean?) {
 
         data class OutSettingsBean(var vnext: List<VnextBean>? = null,
                                    var servers: List<ServersBean>? = null,
@@ -292,7 +292,7 @@ data class V2rayConfig(
             }
         }
 
-        data class MuxBean(var enabled: Boolean, var concurrency: Int = 8)
+        data class MuxBean(var enabled: Boolean? = null, var concurrency: Int? = null)
 
         fun getServerAddress(): String? {
             if (protocol.equals(EConfigType.VMESS.name, true)

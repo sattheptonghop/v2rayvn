@@ -17,6 +17,8 @@ object AppConfig {
     const val PREF_MODE = "pref_mode"
     const val PREF_SPEED_ENABLED = "pref_speed_enabled"
     const val PREF_SNIFFING_ENABLED = "pref_sniffing_enabled"
+    const val PREF_MUX_ENABLED = "pref_mux_enabled"
+    const val PREF_MUX_CONCURRENCY = "pref_mux_concurrency"
     const val PREF_PROXY_SHARING = "pref_proxy_sharing_enabled"
     const val PREF_LOCAL_DNS_ENABLED = "pref_local_dns_enabled"
     const val PREF_FAKE_DNS_ENABLED = "pref_fake_dns_enabled"
@@ -70,6 +72,7 @@ object AppConfig {
     const val PORT_SOCKS = "10808"
     const val PORT_HTTP = "10809"
 
+    const val MUX_CONCURRENCY = "8"
     const val MSG_REGISTER_CLIENT = 1
     const val MSG_STATE_RUNNING = 11
     const val MSG_STATE_NOT_RUNNING = 12

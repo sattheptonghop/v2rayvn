@@ -42,6 +42,7 @@ class SettingsActivity : BaseActivity() {
 //        val tgGroup: Preference by lazy { findPreference(PREF_TG_GROUP) }
 
         private val mode by lazy { findPreference<ListPreference>(AppConfig.PREF_MODE) }
+        private val muxConcurrency by lazy { findPreference<EditTextPreference>(AppConfig.PREF_MUX_CONCURRENCY) }
 
         override fun onCreatePreferences(bundle: Bundle?, s: String?) {
             addPreferencesFromResource(R.xml.pref_settings)
@@ -92,6 +93,11 @@ class SettingsActivity : BaseActivity() {
                 true
             }
 
+            muxConcurrency?.setOnPreferenceChangeListener { _, any ->
+                val nval = any as String
+                muxConcurrency?.summary = if (TextUtils.isEmpty(nval)) AppConfig.MUX_CONCURRENCY else nval
+                true
+            }
             localDns?.setOnPreferenceChangeListener{ _, any ->
                 updateLocalDns(any as Boolean)
                 true
@@ -106,6 +112,9 @@ class SettingsActivity : BaseActivity() {
                 true
             }
             socksPort?.setOnPreferenceChangeListener { _, any ->
+                if (TextUtils.isEmpty(muxConcurrency?.summary)) {
+                    muxConcurrency?.summary = AppConfig.MUX_CONCURRENCY
+                }
                 val nval = any as String
                 socksPort?.summary = if (TextUtils.isEmpty(nval)) AppConfig.PORT_SOCKS else nval
                 true

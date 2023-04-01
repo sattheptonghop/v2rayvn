@@ -11,11 +11,18 @@
             android:key="pref_sniffing_enabled"
             android:summary="@string/summary_pref_sniffing_enabled"
             android:title="@string/title_pref_sniffing_enabled" />
-    <CheckBoxPreference
-        android:defaultValue="false"
-        android:key="pref_mux_enabled"
-        android:summary="@string/summary_pref_mux_enabled"
-        android:title="@string/title_pref_mux_enabled" />
+    <PreferenceCategory android:title="@string/title_mux_settings">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_mux_enabled"
+            android:summary="@string/summary_pref_mux_enabled"
+            android:title="@string/title_pref_mux_enabled" />
+
+        <EditTextPreference
+            android:key="pref_mux_concurrency"
+            android:inputType="number"
+            android:title="@string/title_pref_mux_concurrency" />
+    </PreferenceCategory>
 
     <PreferenceCategory android:title="@string/title_vpn_settings">
         <CheckBoxPreference
@@ -23,10 +30,7 @@
             android:summary="@string/summary_pref_per_app_proxy"
             android:title="@string/title_pref_per_app_proxy" />
 
-        <!--<CheckBoxPreference-->
-        <!--android:key="pref_mux_enabled"-->
-        <!--android:summary="@string/summary_pref_mux_enabled"-->
-        <!--android:title="@string/title_pref_mux_enabled" />-->
+
         <CheckBoxPreference
             android:defaultValue="true"
             android:key="pref_proxy_sharing_enabled"
@@ -62,17 +66,28 @@
                 android:title="@string/title_pref_domestic_dns" />
 
         <ListPreference
-                android:defaultValue="VPN"
-                android:entries="@array/mode_entries"
-                android:entryValues="@array/mode_value"
-                android:key="pref_mode"
-                android:summary="%s"
-                android:title="@string/title_mode" />
+            android:defaultValue="VPN"
+            android:entries="@array/mode_entries"
+            android:entryValues="@array/mode_value"
+            android:key="pref_mode"
+            android:summary="%s"
+            android:title="@string/title_mode" />
+
+        <ListPreference
+            android:defaultValue="auto"
+            android:entries="@array/language_select"
+            android:entryValues="@array/language_select_value"
+            android:key="pref_language"
+            android:summary="%s"
+            android:title="@string/title_language" />
+
 
         <CheckBoxPreference
             android:key="pref_confirm_remove"
             android:summary="@string/summary_pref_confirm_remove"
             android:title="@string/title_pref_confirm_remove" />
+
+
 
     </PreferenceCategory>
 </PreferenceScreen>
