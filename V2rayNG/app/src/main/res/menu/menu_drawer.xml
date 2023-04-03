@@ -29,6 +29,6 @@
         <item
             android:id="@+id/placeholder"
             android:enabled="false"
-            android:title="CuynuV2rayNG v1.8.7-cuynu" />
+            android:title="CuynuV2rayNG v1.8.10-cuynu" />
     </group>
 </menu>
