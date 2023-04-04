@@ -6,6 +6,8 @@ Chất lượng mã nguồn (Source Code)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/cuynu/v2rayvn/badge)](https://www.codefactor.io/repository/github/cuynu/v2rayvn)
 
+Tính năng bổ sung so với phiên bản gốc : Mux (Tăng tốc kết nối, giảm ping nhưng gây áp lực lên máy chủ)
+
 Thống kê số lần v2rayNG/v2flyNG Tiếng Việt được tải xuống
 
 <a href="https://github.com/cuynu/v2rayvn"><img src="https://img.shields.io/github/downloads/cuynu/v2rayvn/total?color=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge"></a>
