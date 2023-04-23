@@ -198,6 +198,8 @@
     <string name="connection_test_error_status_code">Mã lỗi: #%d</string>
     <string name="connection_connected">Đã kết nối, hãy nhấn vào đây để kiểm tra kết nối mạng!</string>
     <string name="connection_not_connected">Chưa kết nối, hãy chọn một cấu hình để kết nối!</string>
+    <string name="title_pref_start_scan_immediate">Bắt đầu quét mã QR ngay lập tức</string>
+    <string name="summary_pref_start_scan_immediate">Mở giao diện quét mã QR ngay khi nhấn "Nhập cấu hình từ mã QR", hoặc thay vào đó bạn có thể chọn để mở camera hay chọn hình ảnh trên thanh công cụ.</string>
 
     <string-array name="share_method">
         <item>Xuất ra mã QR (Chụp màn hình để lưu)</item>

@@ -51,6 +51,8 @@ class SettingsViewModel(application: Application) : AndroidViewModel(application
             AppConfig.PREF_PREFER_IPV6,
             AppConfig.PREF_PER_APP_PROXY,
             AppConfig.PREF_BYPASS_APPS,
+            AppConfig.PREF_CONFIRM_REMOVE,
+            AppConfig.PREF_START_SCAN_IMMEDIATE,
                 AppConfig.PREF_MUX_ENABLED, -> {
                 settingsStorage?.encode(key, sharedPreferences.getBoolean(key, false))
             }
