@@ -40,13 +40,12 @@ jobs:
             echo "Uploading $filename"
             echo "artifact_paths=$file" >> $GITHUB_ENV
           done
-          echo ${{ env.set_test_path.outputs.artifact_path }}
+          echo ${{ env.artifact_path }}
       - name: Test Upload to Artifact
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: |
-            ${{ env.set_test_path.outputs.artifact_path }}
+          path: ${{ env.artifact_path }}
 #
       - name: Set Up JDK
         uses: actions/setup-java@v1
