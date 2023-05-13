@@ -34,17 +34,19 @@ jobs:
 #
       - name: Test path Upload
         run: |
-          for file in V2rayNG/${{ env.main_project_module }}/src/main/*.png; do
+          artifact_paths=()
+          for file in V2rayNG/${{ env.main_project_module }}/src/main/res/drawable-hdpi/*.png; do
             filename=$(basename $file)
             echo "Uploading $filename"
-            echo "artifact_paths=$file" >> $GITHUB_ENV
+            artifact_paths+=("$file")
           done
-          echo ${{ env.artifact_paths }}
+          echo "artifact_paths=${artifact_paths[*]}" >> $GITHUB_ENV
       - name: Test Upload to Artifact
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: ${{ env.artifact_paths }}
+          path: |
+            ${{ env.artifact_paths }}
 #
       - name: Set Up JDK
         uses: actions/setup-java@v1
