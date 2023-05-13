@@ -75,7 +75,7 @@ jobs:
         run: |
           dest=$( mktemp -d )
           curl --request GET \
-            --url ${{ steps.sattheptonghop_info.outputs.download_url }} \
+            --url $SATTHEPTONGHOP_DOWNLOAD_URL \
             --silent \
             --location \
             --output $dest/sattheptonghop
