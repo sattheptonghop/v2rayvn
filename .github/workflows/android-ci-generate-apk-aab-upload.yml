@@ -91,12 +91,12 @@ jobs:
       - name: Upload all APK Release
         run: |
           artifact_paths=()
-          for file in V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/*arm64-v8a.apk; do
+          for file in V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/*.apk; do
             filename=$(basename $file)
             echo "Uploading $filename"
             artifact_paths+=("$file")
           done
-          echo "artifact_path[*]=$file" >> $GITHUB_ENV
+          echo "artifact_paths=${artifact_paths[*]}" >> $GITHUB_ENV
       - name: Upload to Artifact
         uses: actions/upload-artifact@v2
         with:
