@@ -1,0 +1,28 @@
+name: Build Android App
+on:
+   workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'
+          
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v2
+        with:
+          sdk-platform: 'platforms;android-30'
+          ndk-version: '21.4.7075529'
+          
+      - name: Build and test
+        run: |
+          cd ./V2rayNG
+          chmod +x ./gradlew
+          ./gradlew assembleDebug
