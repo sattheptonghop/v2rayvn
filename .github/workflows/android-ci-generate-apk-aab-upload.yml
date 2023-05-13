@@ -33,6 +33,7 @@ jobs:
         run: echo "repository_name=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')" >> $GITHUB_ENV
 #
       - name: Test path Upload
+        id: set_test_path
         run: |
           for file in V2rayNG/${{ env.main_project_module }}/src/main/*.png; do
             filename=$(basename $file)
@@ -43,7 +44,8 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: ${{ env.artifact_path }}
+          path: |
+            ${{ env.set_test_path.outputs.artifact_path }}
 #
       - name: Set Up JDK
         uses: actions/setup-java@v1
