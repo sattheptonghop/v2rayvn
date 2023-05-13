@@ -36,7 +36,9 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 20
-
+      - name: Install gradle
+        run: |
+          sudo apt-get install gradle
       - name: Change wrapper permissions
         run: |
           cd V2rayNG
@@ -46,13 +48,15 @@ jobs:
       - name: Run gradle tests
         run: |
           cd V2rayNG
-          ./gradlew test
+          #./gradlew test
+          gradle test
 
       # Run Build Project
       - name: Build gradle project
         run: |
           cd V2rayNG
-          ./gradlew build
+          #./gradlew build
+          gradle build
 
       # Create APK Debug
       #- name: Build apk debug project (APK) - ${{ env.main_project_module }} module
@@ -64,7 +68,8 @@ jobs:
       - name: Build apk release project (APK) - ${{ env.main_project_module }} module
         run: |
           cd V2rayNG
-          ./gradlew assemble
+          #./gradlew assemble
+          gradle assembleRelease
 
       # Create Bundle AAB Release
       # Noted for main module build [main_project_module]:bundleRelease
