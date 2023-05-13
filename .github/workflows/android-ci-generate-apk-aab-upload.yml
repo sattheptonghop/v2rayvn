@@ -5,7 +5,7 @@ env:
   main_project_module: app
 
   # The name of the Play Store
-  playstore_name: Frogobox ID
+  playstore_name: V2rayng
 
 on:
 
@@ -35,7 +35,7 @@ jobs:
       - name: Set Up JDK
         uses: actions/setup-java@v1
         with:
-          java-version: 20
+          java-version: 17
 
       - name: Change wrapper permissions
         run: |
