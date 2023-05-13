@@ -47,8 +47,8 @@ jobs:
 
       # Run Tests Build
       - name: Run gradle tests
-        run: ./gradlew test
+        run: ./V2rayNG/gradlew test
 
       # Run Build Project
       - name: Build gradle project
-        run: ./gradlew build
+        run: ./V2rayNG/gradlew build
