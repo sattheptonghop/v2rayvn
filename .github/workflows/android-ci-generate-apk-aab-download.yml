@@ -36,28 +36,40 @@ jobs:
         run: cd V2rayNG
         
       - name: Change wrapper permissions
-        run: chmod +x ./gradlew
+        run: |
+          cd V2rayNG
+          chmod +x ./gradlew
 
       # Run Tests Build
       - name: Run gradle tests
-        run: ./gradlew test
+        run: |
+          cd V2rayNG
+          ./gradlew test
 
       # Run Build Project
       - name: Build gradle project
-        run: ./gradlew build
+        run: |
+          cd V2rayNG
+          ./gradlew build
 
       # Create APK Debug
       - name: Build apk debug project (APK) - ${{ env.main_project_module }} module
-        run: ./gradlew assembleDebug
+        run: |
+          cd V2rayNG
+          ./gradlew assembleDebug
 
       # Create APK Release
       - name: Build apk release project (APK) - ${{ env.main_project_module }} module
-        run: ./gradlew assemble
+        run: |
+          cd V2rayNG
+          ./gradlew assemble
 
       # Create Bundle AAB Release
       # Noted for main module build [main_project_module]:bundleRelease
       - name: Build app bundle release (AAB) - ${{ env.main_project_module }} module
-        run: ./gradlew ${{ env.main_project_module }}:bundleRelease
+        run: |
+          cd V2rayNG
+          ./gradlew ${{ env.main_project_module }}:bundleRelease
 
       # Download Artifact Build
       # Noted For Output [main_project_module]/build/outputs/apk/debug/
