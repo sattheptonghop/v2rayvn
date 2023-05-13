@@ -62,7 +62,7 @@ jobs:
             }
           ' | \
           jq --raw-output '.data.repository.release.releaseAssets.nodes[0].downloadUrl' )
-          echo "download_url=${{ SATTHEPTONGHOP_DOWNLOAD_URL }}" >> $GITHUB_ENV
+          echo "download_url=${ SATTHEPTONGHOP_DOWNLOAD_URL }" >> $GITHUB_ENV
 
       # Sets up the sattheptonghop cli
       - name: Setup Sattheptonghop
