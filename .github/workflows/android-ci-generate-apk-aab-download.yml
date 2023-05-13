@@ -102,4 +102,4 @@ jobs:
 
       - name: Display AAB (App Bundle) Release - ${{ env.repository_name }} structure of downloaded files
         run: ls -R
-        working-directory: v2rayvn/${{ env.main_project_module }}/build/outputs/bundle/release/
+        working-directory: V2rayNG/${{ env.main_project_module }}/build/outputs/bundle/release/
