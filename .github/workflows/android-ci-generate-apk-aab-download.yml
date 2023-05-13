@@ -44,7 +44,7 @@ jobs:
       - name: Run gradle tests
         run: |
           cd V2rayNG
-          #./gradlew test
+          ./gradlew test
 
       # Run Build Project
       - name: Build gradle project
