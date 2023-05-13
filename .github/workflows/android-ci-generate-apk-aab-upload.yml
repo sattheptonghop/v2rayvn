@@ -31,13 +31,7 @@ jobs:
       # Set Repository Name As Env Variable
       - name: Set repository name as env variable
         run: echo "repository_name=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')" >> $GITHUB_ENV
-#
-      - name: Test Upload to Artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: V2rayNG/${{ env.main_project_module }}/src/main/res/drawable-hdpi/*.png
-#
+
       - name: Set Up JDK
         uses: actions/setup-java@v1
         with:
@@ -61,10 +55,10 @@ jobs:
           ./gradlew build
 
       # Create APK Debug
-      - name: Build apk debug project (APK) - ${{ env.main_project_module }} module
-        run: |
-          cd V2rayNG
-          ./gradlew assembleDebug
+      #- name: Build apk debug project (APK) - ${{ env.main_project_module }} module
+      #  run: |
+      #    cd V2rayNG
+      #    ./gradlew assembleDebug
 
       # Create APK Release
       - name: Build apk release project (APK) - ${{ env.main_project_module }} module
@@ -94,18 +88,11 @@ jobs:
       #    name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
       #    path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/
           
-      - name: Upload all APK Release
-        run: |
-          for file in V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/*arm64-v8a.apk; do
-            filename=$(basename $file)
-            echo "Uploading $filename"
-            echo "artifact_paths=$file" >> $GITHUB_ENV
-          done
       - name: Upload to Artifact
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: ${{ env.artifact_path }}
+          path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/*.apk
 
       # Noted For Output [main_project_module]/build/outputs/bundle/release/
       #- name: Upload AAB (App Bundle) Release - ${{ env.repository_name }}
