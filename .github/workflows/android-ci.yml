@@ -43,7 +43,7 @@ jobs:
           ls
           git update-index --chmod=+x gradlew
       - name: Change wrapper permissions
-        run: chmod +x ./gradlew
+        #run: chmod +x ./gradlew
 
       # Run Tests Build
       - name: Run gradle tests
