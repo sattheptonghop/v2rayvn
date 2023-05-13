@@ -78,6 +78,7 @@ jobs:
       - name: Download APK Debug - ${{ env.repository_name }}
         uses: actions/download-artifact@v3
         with:
+          name: APKDB
           path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/debug/
 
       - name: Display APK Debug - ${{ env.repository_name }} structure of downloaded files
@@ -88,6 +89,7 @@ jobs:
       - name: Download APK Release - ${{ env.repository_name }}
         uses: actions/download-artifact@v3
         with:
+          name: APKRL
           path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/
 
       - name: Display APK Release - ${{ env.repository_name }} structure of downloaded files
@@ -98,6 +100,7 @@ jobs:
       - name: Download AAB (App Bundle) Release - ${{ env.repository_name }}
         uses: actions/download-artifact@v3
         with:
+          name: BBU
           path: V2rayNG/${{ env.main_project_module }}/build/outputs/bundle/release/
 
       - name: Display AAB (App Bundle) Release - ${{ env.repository_name }} structure of downloaded files
