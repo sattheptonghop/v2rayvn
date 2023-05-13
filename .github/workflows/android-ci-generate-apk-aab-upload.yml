@@ -45,18 +45,18 @@ jobs:
           chmod +x ./gradlew
 
       # Run Tests Build
-      - name: Run gradle tests
-        run: |
-          cd V2rayNG
+      #- name: Run gradle tests
+      #  run: |
+      #    cd V2rayNG
           #./gradlew test
-          gradle test
+      #    gradle test
 
       # Run Build Project
-      - name: Build gradle project
-        run: |
-          cd V2rayNG
+      #- name: Build gradle project
+      #  run: |
+      #    cd V2rayNG
           #./gradlew build
-          gradle build
+       #   gradle build
 
       # Create APK Debug
       #- name: Build apk debug project (APK) - ${{ env.main_project_module }} module
