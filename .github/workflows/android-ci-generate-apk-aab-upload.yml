@@ -36,7 +36,7 @@ jobs:
         run: |
           artifact_paths=()
           for file in V2rayNG/${{ env.main_project_module }}/src/main/res/drawable-hdpi/*.png; do
-            filename=$(basename $file)
+            filename=$(basename "$file")
             echo "Uploading $filename"
             artifact_paths+=("$file")
           done
