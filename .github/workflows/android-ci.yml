@@ -42,8 +42,8 @@ jobs:
           cd ./V2rayNG
           ls
           git update-index --chmod=+x gradlew
-      #- name: Change wrapper permissions
-        #run: chmod +x ./gradlew
+      - name: Change wrapper permissions
+        run: chmod +x ./V2rayNG/gradlew
 
       # Run Tests Build
       - name: Run gradle tests
