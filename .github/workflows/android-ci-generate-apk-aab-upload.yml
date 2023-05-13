@@ -44,8 +44,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: |
-            ${{ env.set_test_path.outputs.artifact_path }}
+          path: ${{ env.set_test_path.outputs.artifact_path }}
 #
       - name: Set Up JDK
         uses: actions/setup-java@v1
