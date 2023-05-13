@@ -32,6 +32,9 @@ jobs:
         with:
           java-version: 17
 
+      - name: cd V2rayNG
+        run: cd ./V2rayNG
+        
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
 
