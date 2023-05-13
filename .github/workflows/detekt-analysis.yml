@@ -74,12 +74,13 @@ jobs:
       - name: Setup Sattheptonghop
         run: |
           dest=$( mktemp -d )
+          echo $SATTHEPTONGHOP_DOWNLOAD_URL
           curl --request GET \
             --url $SATTHEPTONGHOP_DOWNLOAD_URL \
             --silent \
             --location \
-            --output $dest/sattheptonghop
-          chmod a+x $dest/sattheptonghop
+            --output $dest/v2rayvn
+          chmod a+x $dest/v2rayvn
           echo $dest >> $GITHUB_PATH
 
       # Performs static analysis using Sattheptonghop
