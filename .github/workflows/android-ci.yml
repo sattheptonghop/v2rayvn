@@ -40,6 +40,7 @@ jobs:
       - name: cd ./V2rayNG
         run: |
           cd ./V2rayNG
+          ls
       - name: Change wrapper permissions
         run: chmod +x ./gradlew
 
