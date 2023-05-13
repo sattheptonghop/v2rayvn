@@ -68,29 +68,47 @@ jobs:
 
       # Create Bundle AAB Release
       # Noted for main module build [main_project_module]:bundleRelease
-      - name: Build app bundle release (AAB) - ${{ env.main_project_module }} module
-        run: |
-          cd V2rayNG
-          ./gradlew ${{ env.main_project_module }}:bundleRelease
+      #- name: Build app bundle release (AAB) - ${{ env.main_project_module }} module
+      #  run: |
+     #     cd V2rayNG
+      #    ./gradlew ${{ env.main_project_module }}:bundleRelease
 
       # Upload Artifact Build
       # Noted For Output [main_project_module]/build/outputs/apk/debug/
-      - name: Upload APK Debug - ${{ env.repository_name }}
-        uses: actions/upload-artifact@v2
-        with:
-          name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) debug generated
-          path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/debug/
+      #- name: Upload APK Debug - ${{ env.repository_name }}
+      #  uses: actions/upload-artifact@v2
+      #  with:
+      #    name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) debug generated
+      #    path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/debug/
 
       # Noted For Output [main_project_module]/build/outputs/apk/release/
-      - name: Upload APK Release - ${{ env.repository_name }}
+      #- name: Upload APK Release - ${{ env.repository_name }}
+      #  uses: actions/upload-artifact@v2
+      #  with:
+      #    name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
+      #    path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/
+          
+      - name: Upload all APK Release
+        run: |
+          for file in V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/*.apk; do
+            filename=$(basename $file)
+            echo "Uploading $filename"
+            echo "artifact_name=$file" >> $GITHUB_ENV
+            echo "artifact_path=$file" >> $GITHUB_ENV
+            #echo "::set-output name=artifact_name::$filename"
+            #echo "::set-output name=artifact_path::$file"
+          done
+
+      - name: Upload to Artifact
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/
+          #path: ${{ steps.upload.outputs.artifact_path }}
+          path: ${{ env.artifact_path }}
 
       # Noted For Output [main_project_module]/build/outputs/bundle/release/
-      - name: Upload AAB (App Bundle) Release - ${{ env.repository_name }}
-        uses: actions/upload-artifact@v2
-        with:
-          name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - App bundle(s) AAB release generated
-          path: V2rayNG/${{ env.main_project_module }}/build/outputs/bundle/release/
+      #- name: Upload AAB (App Bundle) Release - ${{ env.repository_name }}
+      #  uses: actions/upload-artifact@v2
+      #  with:
+      #    name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - App bundle(s) AAB release generated
+      #    path: V2rayNG/${{ env.main_project_module }}/build/outputs/bundle/release/
