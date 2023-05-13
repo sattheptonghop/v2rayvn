@@ -50,9 +50,9 @@ jobs:
         run: |
           SATTHEPTONGHOP_DOWNLOAD_URL=$( gh api graphql --field tagName=$SATTHEPTONGHOP_RELEASE_TAG --raw-field query='
             query getReleaseAssetDownloadUrl($tagName: String!) {
-              repository(name: "sattheptonghop", owner: "sattheptonghop") {
+              repository(name: "v2rayvn", owner: "sattheptonghop") {
                 release(tagName: $tagName) {
-                  releaseAssets(name: "sattheptonghop", first: 1) {
+                  releaseAssets(name: "v2rayvn", first: 1) {
                     nodes {
                       downloadUrl
                     }
