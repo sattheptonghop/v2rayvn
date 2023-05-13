@@ -108,7 +108,7 @@ jobs:
         run: |-
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add V2rayNG/${{ env.main_project_module }}/build/outputs
+          git add -f V2rayNG/${{ env.main_project_module }}/build/outputs
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
