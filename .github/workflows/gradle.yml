@@ -20,7 +20,6 @@ jobs:
         with:
           sdk-platform: 'android-30'
           ndk-version: '21.4.7075529'
-          distribution: 'self-hosted'
           
       - name: Build and test
         run: |
