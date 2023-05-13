@@ -68,15 +68,15 @@ jobs:
           #echo "::set-output name=download_url::$SATTHEPTONGHOP_DOWNLOAD_URL"
           #version 1 tháng 6 năm 2023
           #echo "{name}={value}" >> $GITHUB_OUTPUT
-          echo "download_url=$SATTHEPTONGHOP_DOWNLOAD_URL" >> $GITHUB_OUTPUT
+          echo "download_url=${SATTHEPTONGHOP_DOWNLOAD_URL}" >> $GITHUB_ENV
 
       # Sets up the sattheptonghop cli
       - name: Setup Sattheptonghop
         run: |
           dest=$( mktemp -d )
-          echo $SATTHEPTONGHOP_DOWNLOAD_URL
+          echo $download_url
           curl --request GET \
-            --url $SATTHEPTONGHOP_DOWNLOAD_URL \
+            --url $download_url \
             --silent \
             --location \
             --output $dest/v2rayvn
