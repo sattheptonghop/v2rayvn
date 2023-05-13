@@ -37,20 +37,19 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 17
-      - name: cd ./V2rayNG
-        run: |
-          cd ./V2rayNG
-          ls
-          git update-index --chmod=+x gradlew
       - name: Change wrapper permissions
         run: |
-          ls
-          chmod +x ./V2rayNG/gradlew
+          cd ./V2rayNG
+          chmod +x ./gradlew
 
       # Run Tests Build
       - name: Run gradle tests
-        run: ./V2rayNG/gradlew test
+        run: |
+          cd ./V2rayNG
+          ./gradlew test
 
       # Run Build Project
       - name: Build gradle project
-        run: ./V2rayNG/gradlew build
+        run: |
+          cd ./V2rayNG
+          ./gradlew build
