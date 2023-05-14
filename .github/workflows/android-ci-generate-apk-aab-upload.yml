@@ -97,19 +97,19 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: V2rayNG/${{ env.main_project_module }}/build/reports/apk/debug/*.apk
+          path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/debug/*.apk
  
       - name: Upload reports to Artifact
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: V2rayNG/${{ env.main_project_module }}/build/outputs/
+          path: V2rayNG/${{ env.main_project_module }}/build/reports/
 
       - name: Upload relaese to Artifact
         uses: actions/upload-artifact@v2
         with:
           name: ${{ env.date_today }} - ${{ env.playstore_name }} - ${{ env.repository_name }} - APK(s) release generated
-          path: V2rayNG/${{ env.main_project_module }}/build/reports/apk/release/*.apk
+          path: V2rayNG/${{ env.main_project_module }}/build/outputs/apk/release/*.apk
 
       # Noted For Output [main_project_module]/build/outputs/bundle/release/
       #- name: Upload AAB (App Bundle) Release - ${{ env.repository_name }}
